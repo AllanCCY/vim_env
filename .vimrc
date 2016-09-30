@@ -20,6 +20,7 @@ Plugin 'easymotion/vim-easymotion'
 Plugin 'https://github.com/ctrlpvim/ctrlp.vim.git'
 Plugin 'https://github.com/asins/mark.git'
 Plugin 'https://github.com/mileszs/ack.vim.git'
+Plugin 'https://github.com/ervandew/supertab.git'
 
 " The following are examples of different formats supported.
 " Keep Plugin commands between here and filetype plugin indent on.
