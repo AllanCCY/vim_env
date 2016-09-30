@@ -1,3 +1,6 @@
 
 # netrwhist
 .netrwhist
+
+bundle
+!bundle/vundle
